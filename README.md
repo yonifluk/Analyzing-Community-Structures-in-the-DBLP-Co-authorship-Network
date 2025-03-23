@@ -1,4 +1,4 @@
-# overleaf link: https://www.overleaf.com/4387621662zhtvthmxfyyv#9776e7
+# Overleaf link: https://www.overleaf.com/4387621662zhtvthmxfyyv#9776e7
 # DBLP Co-authorship Network Analysis
 
 This project analyzes the DBLP co-authorship network using unsupervised learning techniques to detect community structures and patterns. The analysis is based on the DBLP XML dataset, which contains information about computer science publications and their authors.
